@@ -1,5 +1,6 @@
-ProgrammingLanguage Project1
-Project Group Members: Ayþegül Kavaklý 20150807013, Özgün Aras 20150807031
+# ProgrammingLanguage Project1
+
+Project Group Members: Aysegul Kavakli: 20150807013, Ã–zgÃ¼n Aras: 20150807031
 
 BNF Table:
 
